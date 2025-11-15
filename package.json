@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "0.0.1",
+  "description": "Мой первый проект на Хекслете",
+  "homepage": "https://github.com/E-Nasonov/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/E-Nasonov/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-Nasonov/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "Evgeny Nasonov",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
